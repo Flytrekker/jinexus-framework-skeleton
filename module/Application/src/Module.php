@@ -8,7 +8,7 @@ namespace Application;
 
 use JiNexus\ModuleManager\ModuleManager\AbstractModule;
 
-class Module extends AbstractModule
+class Module extends AbstratModule
 {
     const VERSION = '1.0.0';
 
